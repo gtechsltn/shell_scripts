@@ -10,3 +10,11 @@ A script to unzip and merge all zip files with the same structure. For example, 
 ### How to use?
 
 ```./extractor /path/to/folder/zip_files /path/to/output/folder```
+
+# References
+
+https://viblo.asia/p/co-ban-ve-lap-trinh-shell-naQZRkQ0lvx
+
+https://viblo.asia/p/cac-kien-thuc-co-ban-ve-shell-scripts-djeZ19OmZWz
+
+https://missing-semester-vn.github.io/2020/shell-tools/
